@@ -7,7 +7,7 @@
    for (var i = 0; i < word.length; i++) { //ciclo la parola
     newWord += word.split('').reverse()[i]; // creo un arrai con le lettere e le inverto
 
-    
+
     // soluzione con join
     // return word.split('').reverse().join('')
 
